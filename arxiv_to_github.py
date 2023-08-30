@@ -44,7 +44,7 @@ if __name__ == "__main__":
     arxiv_url = input("Enter the arXiv URL: ")
     arxiv_id = arxiv_url.split("/")[-1]
 
-    paper_title = fetch_arxiv_title(arxiv_url)
+    paper_title = fetch_arxiv_title(arxiv_id)
     new_entry = f"- [{paper_title}]({arxiv_url})"
 
     github_token = os.environ["GITHUB_TOKEN"]
