@@ -63,7 +63,27 @@
 - [Automated Hypothesis Testing with Large Scientific Data Repositories](https://www.isi.edu/~gil/papers/gil-etal-acs16.pdf)
 
 ## Peer-Review
+- [ReAct: A Review Comment Dataset for Actionability (and more)](https://arxiv.org/pdf/2210.00443v1.pdf)
+- [NLPEER: A Unified Resource for the Computational Study of Peer Review](https://arxiv.org/pdf/2211.06651.pdf)
+- [Revise and Resubmit: An Intertextual Model of Text-based Collaboration in Peer Review](https://arxiv.org/pdf/2204.10805.pdf)
+- [Assisting Decision Making in Scholarly Peer Review: A Preference Learning Perspective](https://arxiv.org/pdf/2109.01190.pdf)
+- [PEERAssist: Leveraging on Paper-Review Interactions to Predict Peer Review Decisions](https://link.springer.com/chapter/10.1007/978-3-030-91669-5_33)
+- [A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications](https://dykang.github.io/papers/naacl18kang_peerread.pdf)
+- [Your paper has been accepted, rejected, or whatever: Automatic generation of scientific paper reviews](https://link.springer.com/content/pdf/10.1007/978-3-319-45507-5_2.pdf)
+- [AI-assisted peer review](https://eprints.whiterose.ac.uk/170439/1/Checco_et_al-2021-Humanities_and_Social_Sciences_Communications%20VoR%20WRRO.pdf)
 ### Review Generation
+- [Generating Long and Informative Reviews with Aspect-Aware Coarse-to-Fine Decoding](https://arxiv.org/pdf/1906.05667.pdf)
+- [Is the future of peer review automated?](https://bmcresnotes.biomedcentral.com/counter/pdf/10.1186/s13104-022-06080-6.pdf)
+- [Can We Automate Scientific Reviewing?](https://dl.acm.org/doi/pdf/10.1613/jair.1.12862)
+- [KID-Review: Knowledge-Guided Scientific Review Generation with Oracle Pre-training](https://ojs.aaai.org/index.php/AAAI/article/view/21418)
+- [Automated scholarly paper review: Possibility and challenges](https://arxiv.org/pdf/2111.07533.pdf)
+- [Automated scholarly paper review: Technologies and challenges](https://arxiv.org/pdf/2111.07533.pdf)
+- [Investigations on meta review generation from peer review texts leveraging relevant sub-tasks in the peer review pipeline](https://link.springer.com/chapter/10.1007/978-3-031-16802-4_17)
+- [Can a Machine Generate a Meta-Review? How Far Are We?](https://link.springer.com/chapter/10.1007/978-3-031-16270-1_23)
+- [Generating Summaries for Scientific Paper Review](https://arxiv.org/pdf/2109.14059.pdf)
+- [ReviewRobot: Explainable Paper Review Generation based on Knowledge Synthesis](https://aclanthology.org/2020.inlg-1.44/)
+- [Artificial Intelligence, Automation and Peer Review](https://repository.jisc.ac.uk/7614/1/AI_and_peer_review_briefing_paper.pdf)
+- []
 
 ## Scientific Foundation Model / Large Language Model
 - [Galactica: A Large Language Model for Science](https://arxiv.org/abs/2211.09085)
