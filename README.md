@@ -9,6 +9,16 @@
 - [Amplify scientific discovery with artificial intelligence](https://aiichironakano.github.io/cs653/Gil-AIdiscovery-Science14.pdf)
 - [Agents of Exploration and Discovery](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/download/15089/18888)
 - [On scientific understanding with artificial intelligence](https://www.nature.com/articles/s42254-022-00518-3.pdf)
+- [Towards Robot Scientists for autonomous scientific discovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2813846/)
+
+## Closed-Loop/Pipeline
+- [The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](https://arxiv.org/abs/2307.07522)
+
+### Scientific Workflow
+- [Will AI write scientific papers in the future?](https://ojs.aaai.org/index.php/aimagazine/article/download/18149/18882)
+- [Scientific Process Automation andWorkflow Management](https://www.researchgate.net/publication/229058993_Scientific_Process_Automation_and_Workflow_Management#fullTextFileContent)
+- [Automated Research Workflows for Accelerated Discovery](https://nap.nationalacademies.org/read/26532/chapter/1)
+- [FAIR Computational Workflows](https://direct.mit.edu/dint/article/2/1-2/108/10003)
 
 ## Scientific ML
 - [Physics-informed learning of governing equations from scarce data](https://www.nature.com/articles/s41467-021-26434-1.pdf)
@@ -20,12 +30,40 @@
 - [Universal Differential Equations for Scientific Machine Learning](https://arxiv.org/abs/2001.04385)
 
 ### Geometric ML
-
 - [Geometry-Based Deep Learning in the Natural Sciences](https://www.mdpi.com/2673-8392/3/3/56)
 
-## Scientific Workflow
-- [Will AI write scientific papers in the future?](https://ojs.aaai.org/index.php/aimagazine/article/download/18149/18882)
-- [Scientific Process Automation andWorkflow Management](https://www.researchgate.net/publication/229058993_Scientific_Process_Automation_and_Workflow_Management#fullTextFileContent)
+## Scientific Discovery
+- [Scientific intuition inspired by machine learning generated hypotheses](https://arxiv.org/pdf/2010.14236.pdf)
+- [Dendral: a case study of the first expert system for scientific hypothesis formation](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/30758/0000409.pdf;jsessionid=05F9854C47EDB81CA782A921E71EF198?sequence=1)
+- [Digital Discovery of 100 diverse Quantum Experiments with PyTheus](https://arxiv.org/pdf/2210.09980.pdf)
+
+### Symbolic Regression
+- [Automated Scientific Discovery: From Equation Discovery to Autonomous Discovery Systems](https://arxiv.org/pdf/2305.02251.pdf)
+- [Interpretable Scientific Discovery with Symbolic Regression: A Review](https://arxiv.org/pdf/2211.10873.pdf)
+- [End-to-end symbolic regression with transformers](https://arxiv.org/pdf/2204.10532.pdf)
+- [Deep Symbolic Regression for Recurrent Sequences](https://proceedings.mlr.press/v162/d-ascoli22a/d-ascoli22a.pdf)
+- [Deep symbolic regression: Recovering mathematical expressions from data via risk-seeking policy gradients](https://arxiv.org/pdf/1912.04871.pdf)
+- [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://proceedings.neurips.cc/paper/2020/file/c9f2f917078bd2db12f23c3b413d9cba-Paper.pdf)
+- [AI Feynman 2.0: Pareto-optimal symbolic regression exploiting graph modularity](https://proceedings.neurips.cc/paper/2020/file/33a854e247155d590883b93bca53848a-Paper.pdf)
+- [AI Feynman: A physics-inspired method for symbolic regression](https://www.science.org/doi/pdf/10.1126/sciadv.aay2631)
+- [Rethinking Symbolic Regression Datasets and Benchmarks for Scientific Discovery](https://arxiv.org/pdf/2206.10540.pdf)
+- [A Unified Framework for Deep Symbolic Regression](https://openreview.net/pdf?id=2FNnBhwJsHK)
+
+### Analogy
+- [Augmenting Scientific Creativity with an Analogical Search Engine](https://www.notion.so/Augmenting-Scientific-Creativity-with-an-Analogical-Search-Engine-895f283dd8654f83b979d7f2e4168aa7)
+- [SOLVENT: A Mixed Initiative System for Finding Analogies between Research Papers](https://dl.acm.org/doi/pdf/10.1145/3274300)
+- [Emergent Analogical Reasoning in Large Language Models](https://arxiv.org/pdf/2212.09196v1.pdf)
+- [Analogy in scientific discovery: The case of johannes kepler](https://groups.psych.northwestern.edu/gentner/papers/Gentner02b.pdf)
+
+## Scientific Verification
+### Experimental Design
+= [Taking the human out of the loop: A review of bayesian optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7352306)
+- [Bayesian experimental design: A review](https://www.jstor.org/stable/2246015)
+### Statistical Test
+- [Automated Hypothesis Testing with Large Scientific Data Repositories](https://www.isi.edu/~gil/papers/gil-etal-acs16.pdf)
+
+## Peer-Review
+### Review Generation
 
 ## Scientific Foundation Model / Large Language Model
 - [Galactica: A Large Language Model for Science](https://arxiv.org/abs/2211.09085)
@@ -216,7 +254,11 @@
 - [Generating Mathematical Derivations with Large Language Models](https://arxiv.org/pdf/2307.09998.pdf)
 - [LeanDojo](https://leandojo.org/)
 
-## Literature
+## Data Analysis
+- [VizSmith: Automated Visualization Synthesis by Mining Data-Science Notebooks](https://rbavishi.github.io/docs/ase2021-vizsmith.pdf)
+- [Tools and Techniques for Building Programming Assistants for Data Analysis](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-208.pdf)
+
+## Others (To Be Classified)
 - [Scientific Discovery: Computational Explorations of the Creative Process](https://direct.mit.edu/books/book/4759/Scientific-DiscoveryComputational-Explorations-of)
 - [Towards Foundation Models for Scientific Machine Learning: Characterizing Scaling and Transfer Behavior](https://arxiv.org/pdf/2306.00258.pdf)
 - [Science in the age of large language models](https://www.nature.com/articles/s42254-023-00581-4.pdf)
@@ -231,6 +273,5 @@
 - [DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs](https://www.techrxiv.org/articles/preprint/DrugChat_Towards_Enabling_ChatGPT-Like_Capabilities_on_Drug_Molecule_Graphs/22945922)
 - [Chemberta-2: Towards chemical foundation models](https://arxiv.org/abs/2209.01712)
 - [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376)
-- [The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](https://arxiv.org/abs/2307.07522)
-- [Automated Research Workflows for Accelerated Discovery](https://nap.nationalacademies.org/read/26532/chapter/1)
-- [Towards Robot Scientists for autonomous scientific discovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2813846/)
+- [Automatic Slide Generation for Scientific Papers](https://sciknow.github.io/sciknow2019/papers/SciKnow_2019_paper_1.pdf)
+- 
