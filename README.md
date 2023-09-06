@@ -10,6 +10,7 @@
 - [Agents of Exploration and Discovery](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/download/15089/18888)
 - [On scientific understanding with artificial intelligence](https://www.nature.com/articles/s42254-022-00518-3.pdf)
 - [Towards Robot Scientists for autonomous scientific discovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2813846/)
+- [Artificial intelligence: A powerful paradigm for scientific research](https://www.cell.com/the-innovation/pdf/S2666-6758(21)00104-1.pdf)
 
 ## Closed-Loop/Pipeline
 - [The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](https://arxiv.org/abs/2307.07522)
@@ -39,6 +40,7 @@
 - [The role of machine learning in scientific workflows](https://pure.manchester.ac.uk/ws/files/159328628/aaa.pdf)
 
 ## Scientific ML
+
 - [Physics-informed learning of governing equations from scarce data](https://www.nature.com/articles/s41467-021-26434-1.pdf)
 - [Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications](https://arxiv.org/abs/2211.08064)
     - [A Survey on Machine Learning Approaches for Modelling Intuitive Physics](https://arxiv.org/pdf/2202.06481.pdf)
@@ -46,6 +48,9 @@
 - [Scientific Machine Learning](https://sciml.wur.nl/reviews/sciml/sciml.html)
 - [Integrating Scientific Knowledge with Machine Learning for Engineering and Environmental Systems](https://dl.acm.org/doi/pdf/10.1145/3514228)
 - [Universal Differential Equations for Scientific Machine Learning](https://arxiv.org/abs/2001.04385)
+- [Partial Differential Equations Meet Deep Neural Networks: A Survey](https://arxiv.org/pdf/2211.05567.pdf)
+- [When Physics Meets Machine Learning: A Survey of Physics-Informed Machine Learning](https://arxiv.org/pdf/2203.16797.pdf)
+- [PINNacle: A Comprehensive Benchmark of Physics-Informed Neural Networks for Solving PDEs](https://arxiv.org/pdf/2306.08827v1.pdf)
 
 ### Geometric ML
 - [Geometry-Based Deep Learning in the Natural Sciences](https://www.mdpi.com/2673-8392/3/3/56)
@@ -66,6 +71,8 @@
 - [AI Feynman: A physics-inspired method for symbolic regression](https://www.science.org/doi/pdf/10.1126/sciadv.aay2631)
 - [Rethinking Symbolic Regression Datasets and Benchmarks for Scientific Discovery](https://arxiv.org/pdf/2206.10540.pdf)
 - [A Unified Framework for Deep Symbolic Regression](https://openreview.net/pdf?id=2FNnBhwJsHK)
+- [Deep Learning and Symbolic Regression for Discovering Parametric Equations](https://arxiv.org/pdf/2207.00529.pdf)
+- 
 
 ### Analogy
 - [Augmenting Scientific Creativity with an Analogical Search Engine](https://www.notion.so/Augmenting-Scientific-Creativity-with-an-Analogical-Search-Engine-895f283dd8654f83b979d7f2e4168aa7)
@@ -368,8 +375,21 @@
 - [PROMPT2MODEL: Generating Deployable Models from Natural Language Instructions](https://arxiv.org/pdf/2308.12261.pdf)
 
 ## Math
-- [Generating Mathematical Derivations with Large Language Models](https://arxiv.org/pdf/2307.09998.pdf)
+- [Towards the Automatic Mathematician](https://link.springer.com/content/pdf/10.1007/978-3-030-79876-5_2.pdf)
+
+### ATP
+- [Autoformalization with Large Language Models](https://arxiv.org/pdf/2205.12615.pdf)
+- [Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs](https://arxiv.org/pdf/2210.12283.pdf)
+- [NATURALPROVER: Grounded Mathematical Proof Generation with Language Models](https://arxiv.org/pdf/2205.12910.pdf)
+- [HOList: An Environment for Machine Learning of Higher-Order Theorem Proving](https://arxiv.org/pdf/1904.03241.pdf)
 - [LeanDojo](https://leandojo.org/)
+
+### Discovery
+- [Generating Mathematical Derivations with Large Language Models](https://arxiv.org/pdf/2307.09998.pdf)
+- [Advancing mathematics by guiding human intuition with AI](https://www.nature.com/articles/s41586-021-04086-x.pdf)
+- [The Ramanujan Machine: Automatically Generated Conjectures on Fundamental Constants](https://arxiv.org/pdf/1907.00205.pdf)
+- [Generating conjectures on fundamental constants with the Ramanujan Machine](https://arxiv.org/pdf/1907.00205.pdf)
+
 
 ## Data Analysis
 - [VizSmith: Automated Visualization Synthesis by Mining Data-Science Notebooks](https://rbavishi.github.io/docs/ase2021-vizsmith.pdf)
@@ -377,6 +397,11 @@
 
 ## Application
 - [GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text](https://arxiv.org/pdf/2308.06911v1.pdf)
+- [Generative models for molecular discovery: Recent advances and challenges](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.1608#.Y9YYZ2ePNRU.twitter)
+- [A Deep Dive into Machine Learning Density Functional Theory for Materials Science and Chemistry](https://arxiv.org/pdf/2110.00997.pdf)
+- [Beyond potentials: integrated machine-learning models for materials](https://arxiv.org/pdf/2208.06139.pdf)
+- [A Generative Approach to Materials Discovery, Design, and Optimization](https://pubs.acs.org/doi/pdf/10.1021/acsomega.2c03264)
+- 
 
 ## Others (To Be Classified)
 - [Scientific Discovery: Computational Explorations of the Creative Process](https://direct.mit.edu/books/book/4759/Scientific-DiscoveryComputational-Explorations-of)
