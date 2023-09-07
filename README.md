@@ -51,14 +51,25 @@
 - [Partial Differential Equations Meet Deep Neural Networks: A Survey](https://arxiv.org/pdf/2211.05567.pdf)
 - [When Physics Meets Machine Learning: A Survey of Physics-Informed Machine Learning](https://arxiv.org/pdf/2203.16797.pdf)
 - [PINNacle: A Comprehensive Benchmark of Physics-Informed Neural Networks for Solving PDEs](https://arxiv.org/pdf/2306.08827v1.pdf)
+- [Three Ways to Solve Partial Differential Equations with Neural Networks — A Review](https://arxiv.org/pdf/2102.11802.pdf)
+- [Gold-Standard Solutions to the Schrödinger Equation Using Deep Learning: How Much Physics Do We Need?](https://openreview.net/pdf?id=nX-gReQ0OT)
+- [Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5)
+- [Integrating Physics-Based Modeling With Machine Learning: A Survey](https://beiyulincs.github.io/teach/fall_2020/papers/xiaowei.pdf)
+- 
 
 ### Geometric ML
 - [Geometry-Based Deep Learning in the Natural Sciences](https://www.mdpi.com/2673-8392/3/3/56)
+
+### Simulation
+- [Simulation Intelligence: Towards a New Generation of Scientific Methods](https://arxiv.org/pdf/2112.03235.pdf)
 
 ## Scientific Discovery
 - [Scientific intuition inspired by machine learning generated hypotheses](https://arxiv.org/pdf/2010.14236.pdf)
 - [Dendral: a case study of the first expert system for scientific hypothesis formation](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/30758/0000409.pdf;jsessionid=05F9854C47EDB81CA782A921E71EF198?sequence=1)
 - [Digital Discovery of 100 diverse Quantum Experiments with PyTheus](https://arxiv.org/pdf/2210.09980.pdf)
+- [Automated discovery of fundamental variables hidden in experimental data](http://generalroboticslab.com/assets/files/NSV_paper.pdf)
+- [AI Poincar´e: Machine Learning Conservation Laws from Trajectories](https://arxiv.org/pdf/2011.04698.pdf)
+- [Transformational machine learning: Learning how to learn from many related scientific problems](https://www.pnas.org/doi/full/10.1073/pnas.2108013118)
 
 ### Symbolic Regression
 - [Automated Scientific Discovery: From Equation Discovery to Autonomous Discovery Systems](https://arxiv.org/pdf/2305.02251.pdf)
@@ -371,8 +382,16 @@
 - [ReviewerGPT? An Exploratory Study on Using Large Language Models for Paper Reviewing](https://arxiv.org/abs/2306.00622)
 
 ## ML
-- [Can GPT-4 Perform Neural Architecture Search?](https://arxiv.org/abs/2304.10970)
 - [PROMPT2MODEL: Generating Deployable Models from Natural Language Instructions](https://arxiv.org/pdf/2308.12261.pdf)
+
+### AutoML
+- [Can GPT-4 Perform Neural Architecture Search?](https://arxiv.org/abs/2304.10970)
+- [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](http://proceedings.mlr.press/v119/real20a/real20a.pdf)
+- [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910)
+
+### MLOps
+- [Machine Learning Operations: A Survey on MLOps Tool Support](https://arxiv.org/pdf/2202.10169.pdf)
+- 
 
 ## Math
 - [Towards the Automatic Mathematician](https://link.springer.com/content/pdf/10.1007/978-3-030-79876-5_2.pdf)
@@ -389,19 +408,36 @@
 - [Advancing mathematics by guiding human intuition with AI](https://www.nature.com/articles/s41586-021-04086-x.pdf)
 - [The Ramanujan Machine: Automatically Generated Conjectures on Fundamental Constants](https://arxiv.org/pdf/1907.00205.pdf)
 - [Generating conjectures on fundamental constants with the Ramanujan Machine](https://arxiv.org/pdf/1907.00205.pdf)
-
+- [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4.pdf)
+- 
 
 ## Data Analysis
 - [VizSmith: Automated Visualization Synthesis by Mining Data-Science Notebooks](https://rbavishi.github.io/docs/ase2021-vizsmith.pdf)
 - [Tools and Techniques for Building Programming Assistants for Data Analysis](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-208.pdf)
+- [Towards Capturing Scientific Reasoning to Automate Data Analysis](https://dgarijo.com/papers/gil_et_al_cogsci_2022.pdf)
 
 ## Application
+- [Autonomous discovery in the chemical sciences part I: Progress](https://arxiv.org/pdf/2003.13754.pdf)
+- [Autonomous discovery in the chemical sciences part II: Outlook](https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/anie.201909989)
 - [GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text](https://arxiv.org/pdf/2308.06911v1.pdf)
 - [Generative models for molecular discovery: Recent advances and challenges](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.1608#.Y9YYZ2ePNRU.twitter)
 - [A Deep Dive into Machine Learning Density Functional Theory for Materials Science and Chemistry](https://arxiv.org/pdf/2110.00997.pdf)
 - [Beyond potentials: integrated machine-learning models for materials](https://arxiv.org/pdf/2208.06139.pdf)
 - [A Generative Approach to Materials Discovery, Design, and Optimization](https://pubs.acs.org/doi/pdf/10.1021/acsomega.2c03264)
-- 
+- [Machine learning and the physical sciences](https://arxiv.org/pdf/1903.10563.pdf)
+- [Solving the quantum many-body problem with artificial neural networks](https://www.science.org/doi/10.1126/science.aag2302)
+- [Solving high-dimensional partial differential equations using deep learning](https://www.pnas.org/doi/pdf/10.1073/pnas.1718942115)
+- [Magnetic control of tokamak plasmas through deep reinforcement learning](https://www.nature.com/articles/s41586-021-04301-9)
+- [@Machine Learning in Materials Science: From Explainable Predictions to Autonomous Design](https://www.sciencedirect.com/science/article/abs/pii/S0927025621000859)
+- [Machine learning in materials informatics: recent applications and prospects](https://www.nature.com/articles/s41524-017-0056-5)
+- [Highly accurate protein structure prediction with alphafold](https://www.nature.com/articles/s41586-021-03819-2)
+- [Pre-trained Language Models in Biomedical Domain: A Systematic Survey](https://arxiv.org/pdf/2110.05006.pdf)
+- [Improved protein structure prediction using potentials from deep learning](https://www.nature.com/articles/s41586-019-1923-7)
+- [Machine learning applications in genetics and genomics](https://www.nature.com/articles/nrg3920)
+- [Deep learning applications for covid-19](https://journalofbigdata.springeropen.com/counter/pdf/10.1186/s40537-020-00392-9.pdf)
+- [Applications of machine learning in drug discovery and development](https://www.nature.com/articles/s41573-019-0024-5)
+- [Can literature analysis identify innovation drivers in drug discovery?](https://www.nature.com/articles/nrd2973.pdf)
+- [ChatGPT Makes Medicine Easy to Swallow: An Exploratory Case Study on Simplified Radiology Reports](https://arxiv.org/pdf/2212.14882.pdf)
 
 ## Others (To Be Classified)
 - [Scientific Discovery: Computational Explorations of the Creative Process](https://direct.mit.edu/books/book/4759/Scientific-DiscoveryComputational-Explorations-of)
@@ -424,4 +460,7 @@
 - [14 Examples of How LLMs Can Transform Materials Science and Chemistry: A Reflection on a Large Language Model](https://arxiv.org/pdf/2306.06283.pdf)
 - [ChatGPT for Computational Materials Science: A Perspective](https://spj.science.org/doi/10.34133/energymatadv.0026)
 - [Prompt engineering of GPT-4 for chemical research: what can/cannot be done?](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/647d305dbe16ad5c577b6627/original/prompt-engineering-of-gpt-4-for-chemical-research-what-can-cannot-be-done.pdf)
-
+- [@Solving Quantitative Reasoning Problems with Language Models](https://openreview.net/forum?id=IFXTZERXdM7)
+- [Recognizing and Verifying Mathematical Equations using Multiplicative Differential Neural Units](https://arxiv.org/pdf/2104.02899.pdf)
+- [From ‘F’ to ‘A’ on the N.Y. Regents Science Exams: An Overview of the Aristo Project](https://arxiv.org/pdf/1909.01958.pdf)
+- [Learning to solve arithmetic problems with a virtual abacus](https://arxiv.org/pdf/2301.06870.pdf)
